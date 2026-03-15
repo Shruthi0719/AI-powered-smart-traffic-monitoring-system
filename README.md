@@ -1,4 +1,4 @@
-# AI-Powered-Smart-Traffic-Monitoring and Optimization System
+# AI Powered Smart Traffic Monitoring and Optimization System
 A smart traffic management system designed to optimize traffic signal timings using data-driven logic and automation. This project aims to reduce congestion, improve traffic flow, and enable efficient signal control in urban environments.
 
 ---
