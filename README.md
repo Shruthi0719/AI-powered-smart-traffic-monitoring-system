@@ -49,13 +49,13 @@ The system simulates real-world intersection behavior and demonstrates how autom
                          ▼
 ┌─────────────────────────────────────────────────────┐
 │              OpenCV Processing Module               │
-│   Frame capture → Vehicle detection → Lane count   │
+│   Frame capture → Vehicle detection → Lane count    |
 └────────────────────────┬────────────────────────────┘
                          │
                          ▼
 ┌─────────────────────────────────────────────────────┐
 │           Signal Timing Calculation Engine          │
-│   Density analysis → Green time formula → Output   │
+│   Density analysis → Green time formula → Output    |
 └────────────────────────┬────────────────────────────┘
                          │
                          ▼
